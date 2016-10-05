@@ -1,0 +1,17 @@
+h1
+{
+	text-align: center;
+}
+#addButton
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#enterDiv
+{
+	padding: 0px;
+}
+.ng-cloak
+{
+	display: none;
+}
